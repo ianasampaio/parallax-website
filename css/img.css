@@ -1,0 +1,22 @@
+.img{
+    height: 100vh;
+    opacity: 0.87;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img.-first{
+    background-image: url(../assets/img/Sample1.png);
+}
+
+.img.-second{
+    background-image: url(../assets/img/Sample2.png);
+    height: 480px;
+}
+
+.img.-third{
+    background-image: url(../assets/img/Sample3.png);
+}

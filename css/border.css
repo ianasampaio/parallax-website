@@ -1,0 +1,9 @@
+.border{
+    background-color: #1e134d;
+    color: #e8e2ff;
+    padding: 20px;
+}
+
+.border.-trans{
+    background-color: transparent;
+}

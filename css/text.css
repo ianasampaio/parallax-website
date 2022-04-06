@@ -1,0 +1,17 @@
+.text{
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    color: #1e134d;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+@media all and (max-width: 600px) {
+    .text{
+        font-size: 18px;
+        letter-spacing: 5px;
+    }
+}
